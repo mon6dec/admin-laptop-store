@@ -331,7 +331,7 @@
                     </div>
                   </td>
                   <td class="table-column-pl-0">
-                    <a class="media align-items-center" href="ecommerce-product-details.html">
+                    <a class="media align-items-center" href="ecommerce-product-details.jsp">
                       <img class="avatar avatar-lg mr-3" src="assets\img\400x400\img4.jpg" alt="Image Description">
                       <div class="media-body">
                         <h5 class="text-hover-primary mb-0">Photive wireless speakers</h5>
@@ -354,7 +354,7 @@
                   <td>2</td>
                   <td>
                     <div class="btn-group" role="group">
-                      <a class="btn btn-sm btn-white" href="ecommerce-product-details.html">
+                      <a class="btn btn-sm btn-white" href="ecommerce-product-details.jsp">
                         <i class="tio-edit"></i> Edit
                       </a>
                       
@@ -394,7 +394,7 @@
                     </div>
                   </td>
                   <td class="table-column-pl-0">
-                    <a class="media align-items-center" href="ecommerce-product-details.html">
+                    <a class="media align-items-center" href="ecommerce-product-details.jsp">
                       <img class="avatar avatar-lg mr-3" src="assets\img\400x400\img26.jpg" alt="Image Description">
                       <div class="media-body">
                         <h5 class="text-hover-primary mb-0">Topman shoe</h5>
@@ -417,7 +417,7 @@
                   <td>4</td>
                   <td>
                     <div class="btn-group" role="group">
-                      <a class="btn btn-sm btn-white" href="ecommerce-product-details.html">
+                      <a class="btn btn-sm btn-white" href="ecommerce-product-details.jsp">
                         <i class="tio-edit"></i> Edit
                       </a>
                       
@@ -457,7 +457,7 @@
                     </div>
                   </td>
                   <td class="table-column-pl-0">
-                    <a class="media align-items-center" href="ecommerce-product-details.html">
+                    <a class="media align-items-center" href="ecommerce-product-details.jsp">
                       <img class="avatar avatar-lg mr-3" src="assets\img\400x400\img25.jpg" alt="Image Description">
                       <div class="media-body">
                         <h5 class="text-hover-primary mb-0">RayBan black sunglasses</h5>
@@ -480,7 +480,7 @@
                   <td>1</td>
                   <td>
                     <div class="btn-group" role="group">
-                      <a class="btn btn-sm btn-white" href="ecommerce-product-details.html">
+                      <a class="btn btn-sm btn-white" href="ecommerce-product-details.jsp">
                         <i class="tio-edit"></i> Edit
                       </a>
                       
@@ -520,7 +520,7 @@
                     </div>
                   </td>
                   <td class="table-column-pl-0">
-                    <a class="media align-items-center" href="ecommerce-product-details.html">
+                    <a class="media align-items-center" href="ecommerce-product-details.jsp">
                       <img class="avatar avatar-lg mr-3" src="assets\img\400x400\img6.jpg" alt="Image Description">
                       <div class="media-body">
                         <h5 class="text-hover-primary mb-0">Mango Women's shoe</h5>
@@ -543,7 +543,7 @@
                   <td>3</td>
                   <td>
                     <div class="btn-group" role="group">
-                      <a class="btn btn-sm btn-white" href="ecommerce-product-details.html">
+                      <a class="btn btn-sm btn-white" href="ecommerce-product-details.jsp">
                         <i class="tio-edit"></i> Edit
                       </a>
                       
@@ -583,7 +583,7 @@
                     </div>
                   </td>
                   <td class="table-column-pl-0">
-                    <a class="media align-items-center" href="ecommerce-product-details.html">
+                    <a class="media align-items-center" href="ecommerce-product-details.jsp">
                       <img class="avatar avatar-lg mr-3" src="assets\img\400x400\img3.jpg" alt="Image Description">
                       <div class="media-body">
                         <h5 class="text-hover-primary mb-0">Calvin Klein t-shirts</h5>
@@ -606,7 +606,7 @@
                   <td>7</td>
                   <td>
                     <div class="btn-group" role="group">
-                      <a class="btn btn-sm btn-white" href="ecommerce-product-details.html">
+                      <a class="btn btn-sm btn-white" href="ecommerce-product-details.jsp">
                         <i class="tio-edit"></i> Edit
                       </a>
                       
@@ -646,7 +646,7 @@
                     </div>
                   </td>
                   <td class="table-column-pl-0">
-                    <a class="media align-items-center" href="ecommerce-product-details.html">
+                    <a class="media align-items-center" href="ecommerce-product-details.jsp">
                       <img class="avatar avatar-lg mr-3" src="assets\img\400x400\img5.jpg" alt="Image Description">
                       <div class="media-body">
                         <h5 class="text-hover-primary mb-0">Givenchy perfume</h5>
@@ -669,7 +669,7 @@
                   <td>1</td>
                   <td>
                     <div class="btn-group" role="group">
-                      <a class="btn btn-sm btn-white" href="ecommerce-product-details.html">
+                      <a class="btn btn-sm btn-white" href="ecommerce-product-details.jsp">
                         <i class="tio-edit"></i> Edit
                       </a>
                       
@@ -709,7 +709,7 @@
                     </div>
                   </td>
                   <td class="table-column-pl-0">
-                    <a class="media align-items-center" href="ecommerce-product-details.html">
+                    <a class="media align-items-center" href="ecommerce-product-details.jsp">
                       <img class="avatar avatar-lg mr-3" src="assets\img\400x400\img11.jpg" alt="Image Description">
                       <div class="media-body">
                         <h5 class="text-hover-primary mb-0">Asos t-shirts</h5>
@@ -732,7 +732,7 @@
                   <td>4</td>
                   <td>
                     <div class="btn-group" role="group">
-                      <a class="btn btn-sm btn-white" href="ecommerce-product-details.html">
+                      <a class="btn btn-sm btn-white" href="ecommerce-product-details.jsp">
                         <i class="tio-edit"></i> Edit
                       </a>
                       
@@ -772,7 +772,7 @@
                     </div>
                   </td>
                   <td class="table-column-pl-0">
-                    <a class="media align-items-center" href="ecommerce-product-details.html">
+                    <a class="media align-items-center" href="ecommerce-product-details.jsp">
                       <img class="avatar avatar-lg mr-3" src="assets\img\400x400\img12.jpg" alt="Image Description">
                       <div class="media-body">
                         <h5 class="text-hover-primary mb-0">Apple AirPods 2</h5>
@@ -795,7 +795,7 @@
                   <td>1</td>
                   <td>
                     <div class="btn-group" role="group">
-                      <a class="btn btn-sm btn-white" href="ecommerce-product-details.html">
+                      <a class="btn btn-sm btn-white" href="ecommerce-product-details.jsp">
                         <i class="tio-edit"></i> Edit
                       </a>
                       
@@ -835,7 +835,7 @@
                     </div>
                   </td>
                   <td class="table-column-pl-0">
-                    <a class="media align-items-center" href="ecommerce-product-details.html">
+                    <a class="media align-items-center" href="ecommerce-product-details.jsp">
                       <img class="avatar avatar-lg mr-3" src="assets\img\400x400\img13.jpg" alt="Image Description">
                       <div class="media-body">
                         <h5 class="text-hover-primary mb-0">Timex Watch</h5>
@@ -858,7 +858,7 @@
                   <td>2</td>
                   <td>
                     <div class="btn-group" role="group">
-                      <a class="btn btn-sm btn-white" href="ecommerce-product-details.html">
+                      <a class="btn btn-sm btn-white" href="ecommerce-product-details.jsp">
                         <i class="tio-edit"></i> Edit
                       </a>
                       
@@ -898,7 +898,7 @@
                     </div>
                   </td>
                   <td class="table-column-pl-0">
-                    <a class="media align-items-center" href="ecommerce-product-details.html">
+                    <a class="media align-items-center" href="ecommerce-product-details.jsp">
                       <img class="avatar avatar-lg mr-3" src="assets\img\400x400\img14.jpg" alt="Image Description">
                       <div class="media-body">
                         <h5 class="text-hover-primary mb-0">Air Jordan 1</h5>
@@ -921,7 +921,7 @@
                   <td>9</td>
                   <td>
                     <div class="btn-group" role="group">
-                      <a class="btn btn-sm btn-white" href="ecommerce-product-details.html">
+                      <a class="btn btn-sm btn-white" href="ecommerce-product-details.jsp">
                         <i class="tio-edit"></i> Edit
                       </a>
                       
@@ -961,7 +961,7 @@
                     </div>
                   </td>
                   <td class="table-column-pl-0">
-                    <a class="media align-items-center" href="ecommerce-product-details.html">
+                    <a class="media align-items-center" href="ecommerce-product-details.jsp">
                       <img class="avatar avatar-lg mr-3" src="assets\img\400x400\img15.jpg" alt="Image Description">
                       <div class="media-body">
                         <h5 class="text-hover-primary mb-0">RayBan sunglasses</h5>
@@ -984,7 +984,7 @@
                   <td>1</td>
                   <td>
                     <div class="btn-group" role="group">
-                      <a class="btn btn-sm btn-white" href="ecommerce-product-details.html">
+                      <a class="btn btn-sm btn-white" href="ecommerce-product-details.jsp">
                         <i class="tio-edit"></i> Edit
                       </a>
                       
@@ -1024,7 +1024,7 @@
                     </div>
                   </td>
                   <td class="table-column-pl-0">
-                    <a class="media align-items-center" href="ecommerce-product-details.html">
+                    <a class="media align-items-center" href="ecommerce-product-details.jsp">
                       <img class="avatar avatar-lg mr-3" src="assets\img\400x400\img17.jpg" alt="Image Description">
                       <div class="media-body">
                         <h5 class="text-hover-primary mb-0">Gray and yellow cap</h5>
@@ -1047,7 +1047,7 @@
                   <td>1</td>
                   <td>
                     <div class="btn-group" role="group">
-                      <a class="btn btn-sm btn-white" href="ecommerce-product-details.html">
+                      <a class="btn btn-sm btn-white" href="ecommerce-product-details.jsp">
                         <i class="tio-edit"></i> Edit
                       </a>
                       
@@ -1087,7 +1087,7 @@
                     </div>
                   </td>
                   <td class="table-column-pl-0">
-                    <a class="media align-items-center" href="ecommerce-product-details.html">
+                    <a class="media align-items-center" href="ecommerce-product-details.jsp">
                       <img class="avatar avatar-lg mr-3" src="assets\img\400x400\img16.jpg" alt="Image Description">
                       <div class="media-body">
                         <h5 class="text-hover-primary mb-0">Apple iPad Pro 2020</h5>
@@ -1110,7 +1110,7 @@
                   <td>8</td>
                   <td>
                     <div class="btn-group" role="group">
-                      <a class="btn btn-sm btn-white" href="ecommerce-product-details.html">
+                      <a class="btn btn-sm btn-white" href="ecommerce-product-details.jsp">
                         <i class="tio-edit"></i> Edit
                       </a>
                       
@@ -1150,7 +1150,7 @@
                     </div>
                   </td>
                   <td class="table-column-pl-0">
-                    <a class="media align-items-center" href="ecommerce-product-details.html">
+                    <a class="media align-items-center" href="ecommerce-product-details.jsp">
                       <img class="avatar avatar-lg mr-3" src="assets\img\400x400\img18.jpg" alt="Image Description">
                       <div class="media-body">
                         <h5 class="text-hover-primary mb-0">Brown Hat</h5>
@@ -1173,7 +1173,7 @@
                   <td>7</td>
                   <td>
                     <div class="btn-group" role="group">
-                      <a class="btn btn-sm btn-white" href="ecommerce-product-details.html">
+                      <a class="btn btn-sm btn-white" href="ecommerce-product-details.jsp">
                         <i class="tio-edit"></i> Edit
                       </a>
                       
@@ -1213,7 +1213,7 @@
                     </div>
                   </td>
                   <td class="table-column-pl-0">
-                    <a class="media align-items-center" href="ecommerce-product-details.html">
+                    <a class="media align-items-center" href="ecommerce-product-details.jsp">
                       <img class="avatar avatar-lg mr-3" src="assets\img\400x400\img19.jpg" alt="Image Description">
                       <div class="media-body">
                         <h5 class="text-hover-primary mb-0">Levis women's jeans</h5>
@@ -1236,7 +1236,7 @@
                   <td>3</td>
                   <td>
                     <div class="btn-group" role="group">
-                      <a class="btn btn-sm btn-white" href="ecommerce-product-details.html">
+                      <a class="btn btn-sm btn-white" href="ecommerce-product-details.jsp">
                         <i class="tio-edit"></i> Edit
                       </a>
                       
@@ -1276,7 +1276,7 @@
                     </div>
                   </td>
                   <td class="table-column-pl-0">
-                    <a class="media align-items-center" href="ecommerce-product-details.html">
+                    <a class="media align-items-center" href="ecommerce-product-details.jsp">
                       <img class="avatar avatar-lg mr-3" src="assets\img\400x400\img20.jpg" alt="Image Description">
                       <div class="media-body">
                         <h5 class="text-hover-primary mb-0">Levis men's jeans jacket</h5>
@@ -1299,7 +1299,7 @@
                   <td>1</td>
                   <td>
                     <div class="btn-group" role="group">
-                      <a class="btn btn-sm btn-white" href="ecommerce-product-details.html">
+                      <a class="btn btn-sm btn-white" href="ecommerce-product-details.jsp">
                         <i class="tio-edit"></i> Edit
                       </a>
                       
@@ -1339,7 +1339,7 @@
                     </div>
                   </td>
                   <td class="table-column-pl-0">
-                    <a class="media align-items-center" href="ecommerce-product-details.html">
+                    <a class="media align-items-center" href="ecommerce-product-details.jsp">
                       <img class="avatar avatar-lg mr-3" src="assets\img\400x400\img21.jpg" alt="Image Description">
                       <div class="media-body">
                         <h5 class="text-hover-primary mb-0">Beats Headphones</h5>
@@ -1362,7 +1362,7 @@
                   <td>4</td>
                   <td>
                     <div class="btn-group" role="group">
-                      <a class="btn btn-sm btn-white" href="ecommerce-product-details.html">
+                      <a class="btn btn-sm btn-white" href="ecommerce-product-details.jsp">
                         <i class="tio-edit"></i> Edit
                       </a>
                       
@@ -1402,7 +1402,7 @@
                     </div>
                   </td>
                   <td class="table-column-pl-0">
-                    <a class="media align-items-center" href="ecommerce-product-details.html">
+                    <a class="media align-items-center" href="ecommerce-product-details.jsp">
                       <img class="avatar avatar-lg mr-3" src="assets\img\400x400\img22.jpg" alt="Image Description">
                       <div class="media-body">
                         <h5 class="text-hover-primary mb-0">Office Notebook</h5>
@@ -1425,7 +1425,7 @@
                   <td>1</td>
                   <td>
                     <div class="btn-group" role="group">
-                      <a class="btn btn-sm btn-white" href="ecommerce-product-details.html">
+                      <a class="btn btn-sm btn-white" href="ecommerce-product-details.jsp">
                         <i class="tio-edit"></i> Edit
                       </a>
                       
@@ -1465,7 +1465,7 @@
                     </div>
                   </td>
                   <td class="table-column-pl-0">
-                    <a class="media align-items-center" href="ecommerce-product-details.html">
+                    <a class="media align-items-center" href="ecommerce-product-details.jsp">
                       <img class="avatar avatar-lg mr-3" src="assets\img\400x400\img23.jpg" alt="Image Description">
                       <div class="media-body">
                         <h5 class="text-hover-primary mb-0">Colorful pens</h5>
@@ -1488,7 +1488,7 @@
                   <td>3</td>
                   <td>
                     <div class="btn-group" role="group">
-                      <a class="btn btn-sm btn-white" href="ecommerce-product-details.html">
+                      <a class="btn btn-sm btn-white" href="ecommerce-product-details.jsp">
                         <i class="tio-edit"></i> Edit
                       </a>
                       
@@ -1528,7 +1528,7 @@
                     </div>
                   </td>
                   <td class="table-column-pl-0">
-                    <a class="media align-items-center" href="ecommerce-product-details.html">
+                    <a class="media align-items-center" href="ecommerce-product-details.jsp">
                       <img class="avatar avatar-lg mr-3" src="assets\img\400x400\img24.jpg" alt="Image Description">
                       <div class="media-body">
                         <h5 class="text-hover-primary mb-0">Clarks shoes</h5>
@@ -1551,7 +1551,7 @@
                   <td>10</td>
                   <td>
                     <div class="btn-group" role="group">
-                      <a class="btn btn-sm btn-white" href="ecommerce-product-details.html">
+                      <a class="btn btn-sm btn-white" href="ecommerce-product-details.jsp">
                         <i class="tio-edit"></i> Edit
                       </a>
                       

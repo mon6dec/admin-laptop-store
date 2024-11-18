@@ -1761,12 +1761,12 @@
 
                     <ul id="navLinkPagesDropdownEcommerceProducts" class="hs-sub-menu dropdown-menu dropdown-menu-lg" aria-labelledby="pagesDropdownEcommerceSublevel" style="min-width: 16rem;">
                       <li>
-                        <a class="dropdown-item" href="ecommerce-products.html">
+                        <a class="dropdown-item" href="ecommerce-products.jsp">
                           <span class="tio-circle-outlined nav-indicator-icon"></span> Products
                         </a>
                       </li>
                       <li>
-                        <a class="dropdown-item" href="ecommerce-product-details.html">
+                        <a class="dropdown-item" href="ecommerce-product-details.jsp">
                           <span class="tio-circle-outlined nav-indicator-icon"></span> Product Details
                         </a>
                       </li>
@@ -1822,7 +1822,7 @@
                   </li>
 
                   <li>
-                    <a class="dropdown-item" href="ecommerce-manage-reviews.html">
+                    <a class="dropdown-item" href="ecommerce-manage-reviews.jsp">
                       <span class="tio-circle-outlined nav-indicator-icon"></span> Manage Reviews
                     </a>
                   </li>
@@ -3001,12 +3001,12 @@
 
                       <ul id="navLinkPagesDropdownEcommerceProducts" class="hs-sub-menu dropdown-menu dropdown-menu-lg" aria-labelledby="pagesDropdownEcommerceSublevel" style="min-width: 16rem;">
                         <li>
-                          <a class="dropdown-item" href="ecommerce-products.html">
+                          <a class="dropdown-item" href="ecommerce-products.jsp">
                             <span class="tio-circle-outlined nav-indicator-icon"></span> Products
                           </a>
                         </li>
                         <li>
-                          <a class="dropdown-item" href="ecommerce-product-details.html">
+                          <a class="dropdown-item" href="ecommerce-product-details.jsp">
                             <span class="tio-circle-outlined nav-indicator-icon"></span> Product Details
                           </a>
                         </li>
@@ -3062,7 +3062,7 @@
                     </li>
 
                     <li>
-                      <a class="dropdown-item" href="ecommerce-manage-reviews.html">
+                      <a class="dropdown-item" href="ecommerce-manage-reviews.jsp">
                         <span class="tio-circle-outlined nav-indicator-icon"></span> Manage Reviews
                       </a>
                     </li>
@@ -3533,13 +3533,13 @@
 
                     <ul class="js-navbar-vertical-aside-submenu nav nav-sub">
                       <li class="nav-item">
-                        <a class="nav-link " href="ecommerce-products.html" title="Products">
+                        <a class="nav-link " href="ecommerce-products.jsp" title="Products">
                           <span class="tio-circle nav-indicator-icon"></span>
                           <span class="text-truncate">Products</span>
                         </a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link " href="ecommerce-product-details.html" title="Product Details">
+                        <a class="nav-link " href="ecommerce-product-details.jsp" title="Product Details">
                           <span class="tio-circle nav-indicator-icon"></span>
                           <span class="text-truncate">Product Details</span>
                         </a>
@@ -3604,7 +3604,7 @@
                   </li>
 
                   <li class="nav-item">
-                    <a class="nav-link " href="ecommerce-manage-reviews.html" title="Manage Reviews">
+                    <a class="nav-link " href="ecommerce-manage-reviews.jsp" title="Manage Reviews">
                       <span class="tio-circle-outlined nav-indicator-icon"></span>
                       <span class="text-truncate">Manage Reviews</span>
                     </a>
@@ -4301,13 +4301,13 @@
 
                   <ul class="js-navbar-vertical-aside-submenu nav nav-sub">
                     <li class="nav-item">
-                      <a class="nav-link " href="ecommerce-products.html" title="Products">
+                      <a class="nav-link " href="ecommerce-products.jsp" title="Products">
                         <span class="tio-circle nav-indicator-icon"></span>
                         <span class="text-truncate">Products</span>
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link " href="ecommerce-product-details.html" title="Product Details">
+                      <a class="nav-link " href="ecommerce-product-details.jsp" title="Product Details">
                         <span class="tio-circle nav-indicator-icon"></span>
                         <span class="text-truncate">Product Details</span>
                       </a>
@@ -4372,7 +4372,7 @@
                 </li>
 
                 <li class="nav-item">
-                  <a class="nav-link " href="ecommerce-manage-reviews.html" title="Manage Reviews">
+                  <a class="nav-link " href="ecommerce-manage-reviews.jsp" title="Manage Reviews">
                     <span class="tio-circle-outlined nav-indicator-icon"></span>
                     <span class="text-truncate">Manage Reviews</span>
                   </a>

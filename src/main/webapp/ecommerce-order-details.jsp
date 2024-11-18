@@ -130,7 +130,7 @@
                   <div class="media-body">
                     <div class="row">
                       <div class="col-md-6 mb-3 mb-md-0">
-                        <a class="h5 d-block" href="ecommerce-product-details.html">Topman shoe in green</a>
+                        <a class="h5 d-block" href="ecommerce-product-details.jsp">Topman shoe in green</a>
 
                         <div class="font-size-sm text-body">
                           <span>Gender:</span>
@@ -173,7 +173,7 @@
                   <div class="media-body">
                     <div class="row">
                       <div class="col-md-6 mb-3 mb-md-0">
-                        <a class="h5 d-block" href="ecommerce-product-details.html">Office Notebook</a>
+                        <a class="h5 d-block" href="ecommerce-product-details.jsp">Office Notebook</a>
 
                         <div class="font-size-sm text-body">
                           <span>Color:</span>
@@ -208,7 +208,7 @@
                   <div class="media-body">
                     <div class="row">
                       <div class="col-md-6 mb-3 mb-md-0">
-                        <a class="h5 d-block" href="ecommerce-product-details.html">RayBan sunglasses</a>
+                        <a class="h5 d-block" href="ecommerce-product-details.jsp">RayBan sunglasses</a>
 
                         <div class="font-size-sm text-body">
                           <span>Gender:</span>
